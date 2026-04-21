@@ -15,7 +15,7 @@ A Command Line Interface (CLI) application built in Python for fast network port
 1. Clone this repository or download the source code:
    ```bash
    git clone [https://github.com/yourusername/network-scanner-cli.git](https://github.com/yourusername/network-scanner-cli.git)
-   cd network-scanner-cli ```
+   cd network-scanner-cli 
 
 2. (Optional) Create and activate a Virtual Environment:
     ```bash
