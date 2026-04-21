@@ -1,0 +1,5 @@
+# This project uses only standard Python 3 built-in modules.
+# No external libraries are required.
+# (Optional) If you want to add a more colorful terminal interface in the future, you can remove the hash marks below:
+# rich==13.7.0
+# typer==0.9.0
